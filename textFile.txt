@@ -1,2 +1,4 @@
 b1
 change1 
+
+changed in b1 during merge of newbranch first commit
