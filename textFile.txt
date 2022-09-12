@@ -1,2 +1,6 @@
 b1
 change1 
+
+b2-ch1
+
+b2-ch2 from b2
